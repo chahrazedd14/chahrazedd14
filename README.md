@@ -1,6 +1,43 @@
 ### Hi there 👋
 
-<!--
+
+    def skills():
+    languages = { 
+        "Python", "C#", "Javascript"
+    }
+    
+    frontend = { 
+        "HTML", "CSS", "XAML",
+        "XML", "JSON"
+    }
+    
+    frameworks = { 
+        "Django","Django Rest Framework", 
+        "ASP.NET MVC", "Bootstrap",
+        "Entity Framework", "WPF", "WCF",
+        "WinForms", "Windows Service"
+    }
+    
+    databases = { 
+        "MS SQL", "Postgres SQL", 
+        "MySQL", "SQL Light" 
+    }
+    
+    tools = {
+        "VS code", "pycharm","Postman", 
+        "SoapUI", "Github", "pycharm", 
+        "Oracle VM Virtualbox", "AWS",
+        "MySQL workbench", "puTTy", "IIS",
+        "SQL server management studio",
+        
+    }     
+    
+    data = [
+      languages, frontend, frameworks, 
+      databases, tools
+    ]
+    return data
+
 **chahrazedd14/chahrazedd14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +50,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
