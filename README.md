@@ -5,31 +5,30 @@
 
     def skills():
     languages = { 
-        "Python", "C#", "Javascript"
+        "Php", "Java", "Javascript"
     }
     
     frontend = { 
-        "HTML", "CSS", "XAML",
+        "HTML", "CSS", "SCSS",
         "XML", "JSON"
     }
     
     frameworks = { 
         "Django","Django Rest Framework", 
-        "ASP.NET MVC", "Bootstrap",
-        "Entity Framework", "WPF", "WCF",
-        "WinForms", "Windows Service"
+        "ASP.NET MVC", "Bootstrap","Vue.js","Svelte", "React"
+        "Entity Framework",
     }
     
     databases = { 
-        "MS SQL", "Postgres SQL", 
+        "Postgres SQL", 
         "MySQL", "SQL Light" 
     }
     
     tools = {
-        "VS code", "pycharm","Postman", 
+        "VS code", "IntelliJ IDEA","Postman", 
         "SoapUI", "Github", "pycharm", 
-        "Oracle VM Virtualbox", "AWS",
-        "MySQL workbench", "puTTy", "IIS",
+        "Oracle VM Virtualbox", 
+        "MySQL workbench",
         "SQL server management studio",
         
     }     
@@ -40,15 +39,4 @@
     ]
     return data
 
-**chahrazedd14/chahrazedd14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
