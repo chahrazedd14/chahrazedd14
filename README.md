@@ -2,6 +2,8 @@
 
 
 
+```python
+
     def skills():
     languages = { 
         "Php", "Java", "Javascript"
@@ -37,4 +39,4 @@
       databases, tools
     ]
     return data
-
+```
