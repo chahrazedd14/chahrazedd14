@@ -1,6 +1,7 @@
-### Hi there 👋
+<img width="1238" alt="image" src="https://user-images.githubusercontent.com/56532392/158840418-a3a26880-6934-4eb4-917c-9aaf5114cb1f.png">
 
-<img width="875" alt="Capture d’écran 2022-03-15 à 19 46 18" src="https://user-images.githubusercontent.com/56532392/158839182-4ea58ffa-6873-4794-89ae-2418152af321.png">
+
+
 
     def skills():
     languages = { 
